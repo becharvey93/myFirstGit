@@ -1,4 +1,4 @@
-# myFirstGit
+# FirstGit
 
 version 1.0
 
